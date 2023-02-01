@@ -1,0 +1,28 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.p {
+    font-family: 'Times New Roman', Times, serif;
+    color: #000;
+}
+
+h3 {
+    color: rgb(28, 2, 143);
+}
+
+.h3-green {
+    color: rgb(14, 247, 21);
+}
+
+#div-id {
+    color: rgb(236, 12, 12);
+}
+
+header, h3, div, p {
+    font-weight: 800;
+}
+
+div p {
+    color: brown;
+}
